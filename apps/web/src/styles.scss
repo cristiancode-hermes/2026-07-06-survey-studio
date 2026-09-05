@@ -1,3 +1,4 @@
+@import './styles.css';
 body { margin: 0; background: var(--color-surface-50); color: var(--color-surface-900); font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
 .dark body { background: var(--color-surface-950); color: var(--color-surface-100); }
 h1,h2,h3,h4 { font-family: var(--font-heading); text-wrap: balance; }
